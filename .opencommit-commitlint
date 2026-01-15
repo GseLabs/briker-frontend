@@ -1,0 +1,29 @@
+{
+  "hash": "971786982cfc9e4ae2a8d867aff213cc68a467e4cf54f55eca30bd3077796d63",
+  "prompts": [
+    "There should always be a blank line at the beginning of the body.",
+    "Each line of the body should always have 100 characters or less.",
+    "There should always be a blank line at the beginning of the footer.",
+    "Each line of the footer should always have 100 characters or less.",
+    "The header should always have 72 characters or less.",
+    "Please manualy set the prompt for rule \"header-trim\".",
+    "The subject should never be in one of the following case:\n  - pascal-case\n  - upper-case.",
+    "The subject should never be empty.",
+    "The subject should never end with '.'.",
+    "The type should always be in lower-case case.",
+    "The type should never be empty.",
+    "The type should always be one of the following values:\n  - feat (A new feature)\n  - fix (A bug fix)\n  - docs (Documentation only changes)\n  - style (Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc))\n  - refactor (A code change that neither fixes a bug nor adds a feature)\n  - perf (A code change that improves performance)\n  - test (Adding missing tests or correcting existing tests)\n  - build (Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm))\n  - ci (Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs))\n  - chore (Other changes that don't modify src or test files)\n  - revert (Reverts a previous commit).",
+    "Please manualy set the prompt for rule \"function-rules/type-empty\".",
+    "Please manualy set the prompt for rule \"function-rules/scope-empty\"."
+  ],
+  "consistency": {
+    "english": {
+      "localLanguage": "english",
+      "commitFix": "fix(server): use uppercase for variable 'PORT'",
+      "commitFeat": "feat(server): support env variable for server port",
+      "commitFixOmitScope": "fix: use uppercase for variable 'PORT'",
+      "commitFeatOmitScope": "feat: support env variable for server port",
+      "commitDescription": "Fix variable casing and add support for env-specified port"
+    }
+  }
+}
