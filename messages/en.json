@@ -1,0 +1,416 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"ERR_WRONG_ROLE": "Please log in with an account that has the appropriate permissions.",
+	"nav": {
+		"home": "Home",
+		"back_to_home": "Back to home",
+		"login": "Login",
+		"about": "About",
+		"privacy": "Privacy Policy",
+		"terms": "Terms and Conditions",
+		"contact": "Contact Us",
+		"join_us": "Join Us",
+		"store_registration": "Store Registration",
+		"deliveryman_registration": "Deliveryman Registration",
+		"vendor_registration": "Vendor Registration",
+		"refund_policy": "Refund Policy"
+	},
+	"home": {
+		"title": "BRIKER - Construction Logistics Platform",
+		"meta_description": "BRIKER is your all-in-one platform for construction logistics. Order your materials from Castorama, Leroy Merlin and have them delivered directly to your construction site. Join thousands of satisfied construction professionals."
+	},
+	"header": {
+		"main_title": "Manage your construction sites on one platform",
+		"description": "The complete logistics solution for construction sites - Order your materials and have them delivered directly to your site"
+	},
+	"footer": {
+		"description": "BRIKER is your all-in-one platform for construction logistics. Order your materials and have them delivered directly to your site. Connect with trusted suppliers and optimize your workflows.",
+		"newsletter_email": "Your email",
+		"newsletter_button": "Join",
+		"support": "Support",
+		"contact_us": "Contact Us",
+		"copyright": "© {year} BRIKER. All rights reserved."
+	},
+	"features": {
+		"fast_delivery": {
+			"title": "Fast Delivery",
+			"description": "Fast and reliable service"
+		},
+		"secure_package": {
+			"title": "Secure Package",
+			"description": "Guaranteed safe handling"
+		},
+		"support_24_7": {
+			"title": "24/7 Support",
+			"description": "Always available"
+		}
+	},
+	"services": {
+		"main_title": "Solutions for <span class=\"text-primary\">construction sites</span>",
+		"description": "Complete logistics platform for construction professionals",
+		"merchant_portal": {
+			"title": "Material Suppliers",
+			"description": "Connect your store and reach construction sites across the city"
+		},
+		"mobile_app": {
+			"title": "Mobile App",
+			"description": "Order materials on the go and track deliveries in real-time"
+		},
+		"secure_payments": {
+			"title": "Secure Payments",
+			"description": "Secure payment processing for materials and equipment"
+		},
+		"community_hub": {
+			"title": "Professional Network",
+			"description": "Connect with trusted suppliers and service providers"
+		}
+	},
+	"earn_money": {
+		"title": "Earn Money",
+		"description": "Join our platform and start earning through construction logistics opportunities",
+		"store_owner_button": "Become a Supplier",
+		"delivery_partner_button": "Become a Delivery Partner",
+		"store_owner": {
+			"badge": "💼 For material suppliers",
+			"title": "Become a Material Supplier",
+			"description": "Transform your construction materials business with our logistics platform. Manage your inventory, reach construction sites directly and grow your customer base with powerful tools designed for construction suppliers.",
+			"features": {
+				"management": "Complete inventory management system",
+				"analytics": "Real-time sales and delivery analytics",
+				"multichannel": "Reach construction sites across the city"
+			}
+		},
+		"delivery_partner": {
+			"badge": "🏍️ For delivery partners",
+			"title": "Become a Delivery Partner",
+			"description": "Join our delivery network and earn money delivering construction materials. Flexible working hours, competitive rates and deliver to construction sites in your area.",
+			"features": {
+				"flexible": "Flexible working hours",
+				"rates": "Competitive rates for material delivery",
+				"payments": "Guaranteed weekly payments"
+			}
+		}
+	},
+	"statistics": {
+		"title": "Join the thousands who trust BRIKER",
+		"description": "Be part of our growing community of successful businesses and satisfied customers",
+		"perfect_ratio": "Perfect ratio",
+		"support": "Support",
+		"support_extended": "Always available",
+		"satisfaction": "Satisfaction",
+		"satisfaction_extended": "Customer rating",
+		"active_users": "Active Users",
+		"active_users_extended": "Growing daily"
+	},
+	"mobile_app": {
+		"title": "Discover a new way to do business",
+		"description": "Revolutionary mobile platform connecting stores, customers and delivery partners in a transparent ecosystem.",
+		"features": {
+			"tracking": "Real-time order tracking",
+			"payments": "Secure payment system",
+			"multilanguage": "Multi-language support"
+		},
+		"get_started": "Get Started"
+	},
+	"testimonials": {
+		"title": "People who shared their love with us?",
+		"role": "Business Owner"
+	},
+	"about": {
+		"title": "About",
+		"meta_description": "Discover BRIKER, French platform specializing in construction logistics and last-mile delivery for construction materials",
+		"main_title": "Who are we?",
+		"mission_title": "Our Mission",
+		"services_title": "A Multi-Service Offer",
+		"commitments_title": "Eco-Responsible Commitments",
+		"values_title": "Values",
+		"mission_content": "BRIKER has set out to revolutionize construction logistics by making material supply and delivery more efficient, faster, traceable and responsible. We combine technology, field operations and local partnerships to optimize supply chains, reduce costs and minimize the environmental impact of construction site deliveries.",
+		"services_content": "BRIKER offers a modular set of services: construction material delivery via professional carriers, a marketplace for new and used materials and equipment, rental between construction professionals and connection with qualified service providers.",
+		"commitments_content": "BRIKER is committed to promoting sustainable construction practices, optimizing delivery routes, using low-emission transport modes when possible and promoting material reuse through our marketplace, thereby reducing the carbon footprint of construction operations.",
+		"values_content": "Reliability, transparency, responsibility and solidarity. We work with local partners and certified material suppliers to ensure quality and safety on construction sites.",
+		"intro_content": "BRIKER is a French platform specializing in construction logistics, offering complete solutions for construction professionals, contractors and suppliers. This connection is at the heart of our offer: we facilitate supply from major retailers like Castorama and Leroy Merlin, and ensure delivery directly to construction sites.",
+		"security_content": "BRIKER offers construction professionals complete security by guaranteeing a contractual framework, prior verification of suppliers and complete traceability of material deliveries to construction sites."
+	},
+	"contact": {
+		"title": "Contact Us",
+		"meta_description": "Contact the BRIKER team - Customer support, business inquiries, personal data",
+		"subtitle": "Our team is here to help. Whether for a business inquiry, a question about your personal data or technical assistance.",
+		"form_title": "Send us a message",
+		"form_description": "Fill out the form below and we will get back to you as soon as possible.",
+		"quick_help_title": "Need quick help?",
+		"quick_help_description": "Download our mobile app for instant support",
+		"contact_info_title": "Our contact information",
+		"contact_info_description": "Find all our contact details",
+		"business_hours_title": "Opening hours",
+		"business_hours_description": "Our teams are available to assist you",
+		"hours_note": "Note: Outside these hours, you can leave a message via the form or send us an email. We will respond on our next business day."
+	},
+	"validation": {
+		"name_required": "Name must be at least 2 characters",
+		"email_invalid": "Invalid email",
+		"phone_invalid": "Invalid phone number",
+		"subject_required": "Subject must be at least 5 characters",
+		"message_required": "Message must be at least 10 characters"
+	},
+	"business_hours": {
+		"monday_friday": "Monday - Friday",
+		"saturday": "Saturday",
+		"sunday": "Sunday",
+		"closed": "Closed",
+		"hours_weekday": "9:00 AM - 6:00 PM",
+		"hours_saturday": "10:00 AM - 4:00 PM"
+	},
+	"legal": {
+		"refund_policy": {
+			"title": "Withdrawal & Return Policy",
+			"last_updated": "Last updated: August 1, 2025",
+			"meta_description": "Withdrawal and return policy of the BRIKER platform"
+		},
+		"privacy_policy": {
+			"title": "Privacy Policy",
+			"last_updated": "Last updated: August 1, 2025",
+			"meta_description": "BRIKER privacy policy - Personal data protection"
+		},
+		"terms": {
+			"title": "Terms and Conditions",
+			"last_updated": "Last updated: August 1, 2025",
+			"meta_description": "Terms and Conditions of Use of the BRIKER platform"
+		}
+	},
+	"contact_form": {
+		"form_title": "Send us a message",
+		"form_description": "Fill out the form below and we will get back to you as soon as possible.",
+		"name_label": "Name",
+		"name_placeholder": "John Doe",
+		"phone_label": "Phone",
+		"phone_placeholder": "06 12 34 56 78",
+		"subject_label": "Subject",
+		"subject_placeholder": "Subject of your request",
+		"message_label": "Message",
+		"message_placeholder": "Describe your request in detail...",
+		"quick_help_title": "Need quick help?",
+		"quick_help_description": "Download our mobile app for instant support",
+		"contact_info_title": "Our contact information",
+		"contact_info_description": "Find all our contact details",
+		"business_hours_title": "Opening hours",
+		"business_hours_description": "Our teams are available to assist you",
+		"address_label": "Address",
+		"email_label": "Email",
+		"email_placeholder": "john.doe@example.com",
+		"customer_service": "Customer Service:",
+		"phone_number": "+33 1 23 45 67 89",
+		"email_address": "contact@briker.fr",
+		"address_text": "41 rue Jacquemars GIELEE, 59800 LILLE, France"
+	},
+	"dashboard": {
+		"welcome": "Welcome back",
+		"overview": "Overview",
+		"users": "Users",
+		"clients": "Clients",
+		"vehicle_types": "Vehicle Types",
+		"categories": "Categories",
+		"all_users": "All Users",
+		"settings": "Settings",
+		"logout": "Logout",
+		"products": "Products",
+		"orders": "Orders",
+		"delivery_fees": "Delivery Fees"
+	},
+	"sidebar": {
+		"dashboard": "Dashboard",
+		"users": "Users",
+		"clients": "Clients",
+		"all_users": "All Users",
+		"vendors": "Vendors",
+		"couriers": "Couriers",
+		"vehicle_types": "Vehicle Types",
+		"categories": "Categories",
+		"settings": "Settings",
+		"logout": "Logout",
+		"products": "Products",
+		"orders": "Orders",
+		"delivery_fees": "Delivery Fees"
+	},
+	"common": {
+		"success": "Success",
+		"loading": "Loading...",
+		"error": "Error",
+		"no_data": "No data found.",
+		"search_placeholder": "Search...",
+		"columns": "Columns",
+		"actions": "Actions",
+		"edit": "Edit",
+		"delete": "Delete",
+		"add": "Add",
+		"previous": "Previous",
+		"next": "Next",
+		"yes": "Yes",
+		"no": "No",
+		"na": "N/A",
+		"unknown": "Unknown",
+		"close": "Close",
+		"cancel": "Cancel",
+		"download": "Download",
+		"export": "Export",
+		"verified": "Verified",
+		"partial": "Partial",
+		"unverified": "Unverified",
+		"approve": "Approve",
+		"reject": "Reject",
+		"total": "Total",
+		"loading_chart": "Loading chart...",
+		"no_data_available": "No data available",
+		"note": "Note",
+		"save": "Save",
+		"create": "Create",
+		"saving": "Saving...",
+		"deleting": "Deleting...",
+		"name": "Name",
+		"email": "Email",
+		"verification": "Verification",
+		"view": "View",
+		"view_document": "View document",
+		"loading_document": "Loading document...",
+		"error_loading": "Failed to load data",
+		"error_saving": "Failed to save data",
+		"error_deleting": "Failed to delete data",
+		"confirm_delete": "Are you sure you want to delete this item?",
+		"confirm_action": "Are you sure you want to perform this action?"
+	},
+	"products": {
+		"title": "Products",
+		"description": "Manage products",
+		"add_product": "Add Product",
+		"edit_product": "Edit Product",
+		"delete_product": "Delete Product",
+		"product_name": "Product Name",
+		"category": "Category",
+		"price": "Price",
+		"stock": "Stock",
+		"image": "Image",
+		"weight": "Weight",
+		"dimensions": "Dimensions",
+		"validation_name_required": "Product name is required",
+		"validation_category_required": "Category is required",
+		"validation_price_required": "Price must be greater than 0",
+		"validation_weight_positive": "Weight must be positive",
+		"validation_width_positive": "Width must be positive",
+		"validation_height_positive": "Height must be positive",
+		"validation_length_positive": "Length must be positive",
+		"delete_title": "Delete Product",
+		"delete_description": "Are you sure you want to delete the product \"{name}\"? This action is irreversible.",
+		"deleting": "Deleting...",
+		"confirm_delete": "Delete"
+	},
+	"orders": {
+		"title": "Orders",
+		"description": "Manage orders",
+		"select_all": "Select All",
+		"select_row": "Select Row",
+		"status": "Status",
+		"payment_status": "Payment Status",
+		"total": "Total",
+		"client": "Client",
+		"vendor": "Vendor",
+		"created_at": "Created At",
+		"no_orders": "No orders found",
+		"status_pending": "Pending",
+		"status_confirmed": "Confirmed",
+		"status_preparing": "Preparing",
+		"status_ready": "Ready",
+		"status_out": "Out for Delivery",
+		"status_delivered": "Delivered",
+		"status_cancelled": "Cancelled",
+		"status_refunded": "Refunded",
+		"payment_pending": "Pending",
+		"payment_processing": "Processing",
+		"payment_paid": "Paid",
+		"payment_failed": "Failed",
+		"payment_refunded": "Refunded",
+		"status_updated": "Status updated",
+		"status_update_failed": "Failed to update status",
+		"payment_status_updated": "Payment status updated",
+		"payment_status_update_failed": "Failed to update payment status",
+		"details_title": "Order Details",
+		"details_description": "View order #{id} details",
+		"client_info": "Client Information",
+		"vendor_info": "Vendor Information",
+		"delivery_address": "Delivery Address",
+		"contact_info": "Contact Information",
+		"order_items": "Order Items",
+		"order_summary": "Order Summary",
+		"subtotal": "Subtotal",
+		"discount": "Discount",
+		"tax": "Tax",
+		"delivery_fee": "Delivery Fee",
+		"final_total": "Final Total",
+		"update_status": "Update Status",
+		"update_payment_status": "Update Payment Status",
+		"close": "Close",
+		"change_status": "Change Status",
+		"name": "Name",
+		"contact": "Contact",
+		"summary": "Summary"
+	},
+	"cart": {
+		"title": "Shopping Cart",
+		"empty": "Your cart is empty",
+		"product": "Product",
+		"quantity": "Quantity",
+		"unit_price": "Unit Price",
+		"total_price": "Total Price",
+		"subtotal": "Subtotal",
+		"delivery_fee": "Delivery Fee",
+		"total": "Total",
+		"update_quantity": "Update Quantity",
+		"remove_item": "Remove Item",
+		"clear_cart": "Clear Cart",
+		"checkout": "Checkout",
+		"updating": "Updating...",
+		"removing": "Removing...",
+		"clearing": "Clearing...",
+		"quantity_updated": "Quantity updated",
+		"item_removed": "Item removed",
+		"cart_cleared": "Cart cleared",
+		"error_updating": "Failed to update quantity",
+		"error_removing": "Failed to remove item",
+		"error_clearing": "Failed to clear cart"
+	},
+	"client": {
+		"orders_title": "My Orders",
+		"orders_description": "View and track your orders",
+		"cart_title": "My Cart",
+		"cart_description": "Manage your shopping cart",
+		"no_orders": "No orders yet",
+		"order_details": "Order Details",
+		"track_order": "Track Order",
+		"view_details": "View Details",
+		"items_count": "{count} items"
+	},
+	"tracking": {
+		"title": "Order Tracking",
+		"order_id": "Order ID",
+		"status": "Status",
+		"estimated_delivery": "Estimated Delivery",
+		"tracking_steps": "Tracking Steps",
+		"step_pending": "Pending",
+		"step_confirmed": "Confirmed",
+		"step_preparing": "Preparing",
+		"step_ready": "Ready",
+		"step_out_for_delivery": "Out for Delivery",
+		"step_delivered": "Delivered",
+		"step_cancelled": "Cancelled",
+		"step_refunded": "Refunded"
+	},
+	"admin": {
+		"delivery_fee_management": "Delivery Fee Management",
+		"base_fee": "Base Fee",
+		"base_fee_desc": "Fixed fee for all deliveries",
+		"fee_per_km": "Fee per km",
+		"fee_per_km_desc": "Additional fee per kilometer",
+		"max_fee": "Maximum Fee",
+		"max_fee_desc": "Maximum delivery fee cap",
+		"delivery_fee_updated": "Delivery fee updated successfully",
+		"error_updating_delivery_fee": "Failed to update delivery fee"
+	}
+}

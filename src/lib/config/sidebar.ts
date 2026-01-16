@@ -10,6 +10,7 @@ import Settings from "@lucide/svelte/icons/settings";
 import Car from "@lucide/svelte/icons/car";
 import Tag from "@lucide/svelte/icons/tag";
 import Package from "@lucide/svelte/icons/package";
+import DollarSign from "@lucide/svelte/icons/dollar-sign";
 
 export interface SidebarItem {
 	label: () => string;
@@ -48,6 +49,11 @@ export const sidebarConfig: Record<string, SidebarItem[]> = {
 					label: () => m["sidebar.vehicle_types"](),
 					href: "/dashboard/admin/vehicle-types",
 					icon: Car
+				},
+				{
+					label: () => m["sidebar.delivery_fees"](),
+					href: "/dashboard/admin/delivery-fees",
+					icon: DollarSign
 				}
 			]
 		}
